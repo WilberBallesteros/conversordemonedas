@@ -11,4 +11,7 @@
   <li>Usar la biblioteca Gson: Dentro del IDE IntelliJ:   File/project structure/Modules/Dependencies/+/agregar gson (ruta donde los tengas descargado), (no olvide marcar el recuadro de gson darle aplicar y ok))</li>
   <li>Ejecutar la clase principal: click derecho run. (El proyecto se ejecutará desde la consola)</li>
   <li>TODO LISTO!!! Realizar las conversiones de moneda que desees</li>
+ 
+![conversor](https://github.com/WilberBallesteros/conversordemonedas/assets/91759897/a3a1ec10-ee76-4446-a98d-682eaa0bdbd7)
+
 </ul>
